@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+##
+这是一个日历插件，可选择的日期为当前年份的前后20年
+
 ## Build Setup
 
 ``` bash
